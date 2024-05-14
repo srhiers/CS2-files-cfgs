@@ -9,4 +9,4 @@ CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM;
 
 
 ***Sensitivity:***                 
-1.80 on both (normal and zoom), 800dpi, m_yaw "0.0165"
+1.80 (90% zoom), 800dpi, m_yaw "0.0165"
