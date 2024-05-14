@@ -5,7 +5,7 @@ CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM;
 
 
 ***Command line:***              
--console -nojoy -fullscreen -freq 144 **-high** **+exec autoexec.cfg** -allow_third_party_software
+-console -nojoy -fullscreen -freq 144 -high +exec autoexec.cfg -allow_third_party_software
 
 
 ***Sensitivity:***         
