@@ -8,4 +8,4 @@ _Command line:_    -console -nojoy -fullscreen -freq 144 **-high** **+exec autoe
 
 _Sensitivity:_    1.80 on both (normal and zoom), 800dpi
 
-                  - m_yaw "0.0165"
+    - m_yaw "0.0165"
