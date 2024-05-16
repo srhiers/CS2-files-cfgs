@@ -1,7 +1,9 @@
 # CS2 files and settings
+Download my autoexec file and put it into x:\...\root\game\csgo\cfg
+
 
 ***Crosshair:***                   
-CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM;
+CSGO-2dNbv-ipqrS-nwn6m-PhpEE-rzsyM
 
 
 ***Command line:***                
