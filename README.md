@@ -1,4 +1,4 @@
-# CS2 files and settings
+# head-hunter
 Download my autoexec file and put it into x:\...\root\game\csgo\cfg
 
 
